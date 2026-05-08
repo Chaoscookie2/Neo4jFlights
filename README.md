@@ -41,3 +41,6 @@
 
 - From City
 - To Airport
+
+
+![nodes and relations](./imgs/image.png)
